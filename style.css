@@ -62,15 +62,15 @@ body {
 }
 
 @media screen and (min-width: 768px) {
-    .botao {
+    .botoes{
         display: flex;
     }
 
-    .botoes:first-child {
+    .botoes:first-child{
         border-radius: 40px 0 0 0;
     }
 
-    .botoes:last-child {
+    .botoes:last-child{
         border-radius: 0 40px 0 0;
     }
 }
